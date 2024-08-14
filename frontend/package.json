@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "axios": "^1.7.4",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
     "lord-icon-element": "^4.1.2",
     "mdb-react-ui-kit": "^8.0.0",
     "react": "^18.3.1",
